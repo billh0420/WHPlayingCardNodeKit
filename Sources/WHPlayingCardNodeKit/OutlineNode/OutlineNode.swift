@@ -1,6 +1,6 @@
 //
 //  OutlineNode.swift
-//  CardImageKit
+//  WHPlayingCardNodeKit
 //
 //  Created by William Hale on 5/24/17.
 //
