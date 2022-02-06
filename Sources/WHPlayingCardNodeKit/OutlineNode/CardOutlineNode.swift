@@ -1,9 +1,8 @@
 //
 //  CardOutlineNode.swift
-//  CardImageKit
+//  WHPlayingCardNodeKit
 //
 //  Created by William Hale on 4/18/17.
-//  Copyright © 2017 William Hale. All rights reserved.
 //
 
 import SpriteKit
