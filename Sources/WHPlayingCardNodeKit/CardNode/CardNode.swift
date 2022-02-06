@@ -1,6 +1,6 @@
 //
 //  CardNode.swift
-//  
+//  WHPlayingCardNodeKit
 //
 //  Created by William Hale on 1/21/22.
 //
